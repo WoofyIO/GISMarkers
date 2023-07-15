@@ -1,309 +1,111 @@
-FILE: SFE_Facet_LBand_230712_171333.23O OP1689276095166
+FILE: SFE_Facet_LBand_230712_171333.23O OP1689354014225
 
- 1008   NOTE: You provided a zero or negative antenna height.
- 1008   If ARP HGT = 0.0, OPUS solves for the position of your selected antenna's reference point (ARP).
- 1008   If ARP HGT < 0.0, OPUS solves for a location inside or above the antenna
- 1008
                               NGS OPUS SOLUTION REPORT
                               ========================
 
 All computed coordinate accuracies are listed as peak-to-peak values.
 For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
 
-      USER: visser.jacob@outlook.com                 DATE: July 13, 2023
-RINEX FILE: sfe_193r.23o                             TIME: 19:24:58 UTC
+      USER: jake@woofy.io                            DATE: July 14, 2023
+RINEX FILE: sfe_193r.23o                             TIME: 17:01:42 UTC
 
 
-  SOFTWARE: page5  2008.25 master250.pl 160321      START: 2023/07/12  17:14:00
+  SOFTWARE: page5  2008.25 master291.pl 160321      START: 2023/07/12  17:14:00
  EPHEMERIS: igu22703.eph [ultra-rapid]               STOP: 2023/07/13  04:16:00
-  NAV FILE: brdc1930.23n                         OBS USED: 14355 / 16821   :  85%
-  ANT NAME: SFEFACET        NONE              # FIXED AMB:   118 /   127   :  93%
-ARP HEIGHT: -0.0028                           OVERALL RMS: 0.018(m)
+  NAV FILE: brdc1930.23n                         OBS USED: 11195 / 13827   :  81%
+  ANT NAME: SFEFACET        NONE              # FIXED AMB:   106 /   117   :  91%
+ARP HEIGHT: 1.5972                            OVERALL RMS: 0.018(m)
 
 
  REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2023.5286)
-     
-         X:     -2303719.042(m)   0.007(m)          -2303720.013(m)   0.007(m)
-         Y:     -3642432.060(m)   0.014(m)          -3642430.877(m)   0.014(m)
-         Z:      4686037.819(m)   0.014(m)           4686037.809(m)   0.014(m)
+      
+         X:     -2303718.473(m)   0.007(m)          -2303719.444(m)   0.007(m)
+         Y:     -3642431.160(m)   0.008(m)          -3642429.977(m)   0.008(m)
+         Z:      4686036.654(m)   0.015(m)           4686036.644(m)   0.015(m)
 
-       LAT:   47 35 11.64829      0.006(m)        47 35 11.65956      0.006(m)
-     E LON:  237 41 16.75176      0.006(m)       237 41 16.68221      0.006(m)
-     W LON:  122 18 43.24824      0.006(m)       122 18 43.31779      0.006(m)
-    EL HGT:           58.207(m)   0.020(m)                57.875(m)   0.020(m)
- ORTHO HGT:           81.841(m)   0.050(m) [NAVD88 (Computed using GEOID18)]
+       LAT:   47 35 11.64829      0.004(m)        47 35 11.65960      0.004(m)
+     E LON:  237 41 16.75172      0.004(m)       237 41 16.68221      0.004(m)
+     W LON:  122 18 43.24828      0.004(m)       122 18 43.31779      0.004(m)
+    EL HGT:           56.628(m)   0.017(m)                56.297(m)   0.017(m)
+ ORTHO HGT:           80.262(m)   0.049(m) [NAVD88 (Computed using GEOID18)]
 
                         UTM COORDINATES    STATE PLANE COORDINATES
                          UTM (Zone 10)         SPC (4601 WA N)
 Northing (Y) [meters]     5270580.046            66284.454
-Easting (X)  [meters]      551729.287           388782.748
+Easting (X)  [meters]      551729.286           388782.747
 Convergence  [degrees]     0.50795000          -1.10090833
 Point Scale                0.99963288           0.99998498
-Combined Factor            0.99962376           0.99997586
+Combined Factor            0.99962401           0.99997610
 
 US NATIONAL GRID DESIGNATOR: 10TET5172970580(NAD 83)
 
 
                               BASE STATIONS USED
 PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
-DN2111 JIME JIM ELAM CORS ARP              N453123.214 W1225925.841  235191.1
-DK4090 BREW BREWSTER VLBA 40473M001        N480753.468 W1194057.421  205855.6
-DG9893 NWBG ADEPAZ COOP CORS ARP           N451800.172 W1225831.850  259214.1
+DN5824 HAHD HOWARD HANSON CORS GRP         N471726.867 W1214717.038   51422.8
+DR7629 PNNL PNNL SEQUIM CORS GRP           N480445.392 W1230242.349   77544.5
+DN5819 CHCM CHIMACUM SCHOOLS CORS GRP      N480038.208 W1224633.058   58569.4
 
                  NEAREST NGS PUBLISHED CONTROL POINT
 SY4515      T24N R4E SEC 8 NE COR          N473523.960 W1221849.776     404.0
 
+This position and the above vector components were computed without any 
+knowledge by the National Geodetic Survey regarding the equipment or 
+field operating procedures used.
 
-                                                 
-                                                 
-                          BASE STATION INFORMATION
-                                                 
- STATION NAME: jime  a    2 (JIM ELAM; Hillsboro, Oregon  USA)
-  MONUMENT: NO DOMES NUMBER
- XYZ  -2437364.1338  -3754570.2891   4528307.6595  MON @ 2010.0000 (M)
- XYZ        -0.0089         0.0019        -0.0049  VEL (M/YR)
- NEU         0.0000         0.0000         0.0000  MON TO ARP (M)
- NEU        -0.0010         0.0014         0.0583  ARP TO L1 PHASE CENTER (M)
- NEU        -0.0002        -0.0024         0.0555  ARP TO L2 PHASE CENTER (M)
- XYZ        -0.1202         0.0257        -0.0667  VEL TIMES 13.5278 YRS
- XYZ         0.0000         0.0000         0.0000  MON TO ARP
- XYZ        -0.0215        -0.0356         0.0409  ARP TO L1 PHASE CENTER
- XYZ  -2437364.2755  -3754570.2989   4528307.6336  L1 PHS CEN @ 2023.5286
- XYZ        -0.0000         0.0000        -0.0000  + XYZ ADJUSTMENTS
- XYZ  -2437364.2755  -3754570.2989   4528307.6336  NEW L1 PHS CEN @ 2023.5286
- XYZ  -2437364.2540  -3754570.2633   4528307.5927  NEW ARP @ 2023.5286
- XYZ  -2437364.2540  -3754570.2633   4528307.5927  NEW MON @ 2023.5286
- LLH  45 31 23.22557  237  0 34.09215     53.0906  NEW L1 PHS CEN @ 2023.5286
- LLH  45 31 23.22560  237  0 34.09209     53.0323  NEW ARP @ 2023.5286
- LLH  45 31 23.22560  237  0 34.09209     53.0323  NEW MON @ 2023.5286
+-----------------------------------------------------------------------------
 
- STATION NAME: brew  a    1 (BREWSTER, UNITED STATE)
-  MONUMENT: 40473M001     
- XYZ  -2112007.2211  -3705351.8268   4726827.1078  MON @ 2010.0000 (M)
- XYZ        -0.0145         0.0002        -0.0074  VEL (M/YR)
- NEU        -0.0000         0.0000         0.0083  MON TO ARP (M)
- NEU         0.0008        -0.0004         0.0892  ARP TO L1 PHASE CENTER (M)
- NEU        -0.0004        -0.0005         0.1179  ARP TO L2 PHASE CENTER (M)
- XYZ        -0.1959         0.0032        -0.0998  VEL TIMES 13.5279 YRS
- XYZ        -0.0027        -0.0048         0.0062  MON TO ARP
- XYZ        -0.0296        -0.0510         0.0670  ARP TO L1 PHASE CENTER
- XYZ  -2112007.4494  -3705351.8795   4726827.0811  L1 PHS CEN @ 2023.5286
- XYZ         0.0000         0.0000         0.0000  + XYZ ADJUSTMENTS
- XYZ  -2112007.4494  -3705351.8795   4726827.0811  NEW L1 PHS CEN @ 2023.5286
- XYZ  -2112007.4198  -3705351.8285   4726827.0141  NEW ARP @ 2023.5286
- XYZ  -2112007.4170  -3705351.8236   4726827.0079  NEW MON @ 2023.5286
- LLH  48  7 53.48034  240 19  2.50717    238.6919  NEW L1 PHS CEN @ 2023.5286
- LLH  48  7 53.48032  240 19  2.50719    238.6027  NEW ARP @ 2023.5286
- LLH  48  7 53.48032  240 19  2.50719    238.5944  NEW MON @ 2023.5286
+FILE: SFE_Facet_LBand_230712_171333.23O OP1689313250492
 
- STATION NAME: nwbg  a    3 (ADEPAZ COOP; Newberg, Oregon, U.S.A.)
-  MONUMENT: 49463S001     
- XYZ  -2445987.0631  -3770013.6029   4510896.1083  MON @ 2010.0000 (M)
- XYZ        -0.0094         0.0019        -0.0049  VEL (M/YR)
- NEU         0.0000         0.0000         0.0000  MON TO ARP (M)
- NEU         0.0002         0.0001         0.0660  ARP TO L1 PHASE CENTER (M)
- NEU         0.0003         0.0002         0.0580  ARP TO L2 PHASE CENTER (M)
- XYZ        -0.1270         0.0255        -0.0658  VEL TIMES 13.5277 YRS
- XYZ         0.0000         0.0000         0.0000  MON TO ARP
- XYZ        -0.0251        -0.0389         0.0470  ARP TO L1 PHASE CENTER
- XYZ  -2445987.2152  -3770013.6163   4510896.0895  L1 PHS CEN @ 2023.5285
- XYZ        -0.0000         0.0000        -0.0000  + XYZ ADJUSTMENTS
- XYZ  -2445987.2152  -3770013.6163   4510896.0895  NEW L1 PHS CEN @ 2023.5285
- XYZ  -2445987.1901  -3770013.5774   4510896.0425  NEW ARP @ 2023.5285
- XYZ  -2445987.1901  -3770013.5774   4510896.0425  NEW MON @ 2023.5285
- LLH  45 18  0.18344  237  1 28.08249     42.6188  NEW L1 PHS CEN @ 2023.5285
- LLH  45 18  0.18343  237  1 28.08248     42.5528  NEW ARP @ 2023.5285
- LLH  45 18  0.18343  237  1 28.08248     42.5528  NEW MON @ 2023.5285
+                              NGS OPUS SOLUTION REPORT
+                              ========================
 
-                         REMOTE STATION INFORMATION
-                                                 
- STATION NAME: sfe_       1
-  MONUMENT: NO DOMES NUMBER
- XYZ  -2303721.5403  -3642432.7675   4686039.5741  MON @ 2023.5280 (M)
- NEU        -0.0025         0.0009        -0.0028  MON TO ARP (M)
- NEU         0.0025        -0.0009         0.0718  ARP TO L1 PHASE CENTER (M)
- NEU         0.0022         0.0054         0.0672  ARP TO L2 PHASE CENTER (M)
- XYZ         0.0008        -0.0004        -0.0038  MON TO ARP
- XYZ        -0.0257        -0.0389         0.0547  ARP TO L1 PHASE CENTER
- XYZ  -2303721.5652  -3642432.8068   4686039.6250  L1 PHS CEN @ 2023.5286
+All computed coordinate accuracies are listed as peak-to-peak values.
+For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
 
- BASELINE NAME:   jime  sfe_
- XYZ         1.5301         1.8875        -1.7694  + XYZ ADJUSTMENTS
- XYZ  -2303720.0351  -3642430.9194   4686037.8557  NEW L1 PHS CEN @ 2023.5286
- XYZ  -2303720.0094  -3642430.8805   4686037.8010  NEW ARP @ 2023.5286
- XYZ  -2303720.0102  -3642430.8800   4686037.8047  NEW MON @ 2023.5286
- LLH  47 35 11.65945  237 41 16.68240     57.9416  NEW L1 PHS CEN @ 2023.5286
- LLH  47 35 11.65937  237 41 16.68245     57.8698  NEW ARP @ 2023.5286
- LLH  47 35 11.65945  237 41 16.68240     57.8726  NEW MON @ 2023.5286
-
- BASELINE NAME:   brew  sfe_
- XYZ         1.5294         1.8982        -1.7700  + XYZ ADJUSTMENTS
- XYZ  -2303720.0358  -3642430.9086   4686037.8550  NEW L1 PHS CEN @ 2023.5286
- XYZ  -2303720.0101  -3642430.8697   4686037.8003  NEW ARP @ 2023.5286
- XYZ  -2303720.0109  -3642430.8693   4686037.8041  NEW MON @ 2023.5286
- LLH  47 35 11.65965  237 41 16.68210     57.9353  NEW L1 PHS CEN @ 2023.5286
- LLH  47 35 11.65957  237 41 16.68214     57.8634  NEW ARP @ 2023.5286
- LLH  47 35 11.65965  237 41 16.68210     57.8663  NEW MON @ 2023.5286
-
- BASELINE NAME:   nwbg  sfe_
- XYZ         1.5232         1.8843        -1.7564  + XYZ ADJUSTMENTS
- XYZ  -2303720.0420  -3642430.9225   4686037.8686  NEW L1 PHS CEN @ 2023.5285
- XYZ  -2303720.0163  -3642430.8836   4686037.8139  NEW ARP @ 2023.5285
- XYZ  -2303720.0171  -3642430.8832   4686037.8177  NEW MON @ 2023.5285
- LLH  47 35 11.65958  237 41 16.68220     57.9554  NEW L1 PHS CEN @ 2023.5285
- LLH  47 35 11.65950  237 41 16.68225     57.8836  NEW ARP @ 2023.5285
- LLH  47 35 11.65958  237 41 16.68220     57.8864  NEW MON @ 2023.5285
-
-                                   G-FILES
-                                         
-Axx2023 712  23 713
-B2023 7121714  23 713 416 1 page5 v2008.25IGS     137 1 2 27NGS   2023 713IFDDPF
-IIGS20_2247          IGS   20230129
-C00090001-1336442438   24-1121393833   34-1577302120   32 X1933ASFE_X1933AJIME
-D  1  2  9781707  1  3 -8985337  2  3 -9261347
-
-Axx2023 712  23 713
-B2023 7121714  23 713 416 1 page5 v2008.25IGS     137 1 2 27NGS   2023 713IFDDPF
-IIGS20_2247          IGS   20230129
-C00090004 1917125939   18 -629209544   20  407892039   27 X1933ASFE_X1933ABREW
-D  1  2  8440932  1  3 -8552362  2  3 -9458536
-
-Axx2023 712  23 713
-B2023 7121714  23 713 416 1 page5 v2008.25IGS     137 1 2 27NGS   2023 713IFDDPF
-IIGS20_2247          IGS   20230129
-C00090002-1422671730   24-1275826942   35-1751417752   32 X1933ASFE_X1933ANWBG
-D  1  2  9723148  1  3 -8713139  2  3 -8968208
-
-                   POST-FIT RMS BY SATELLITE VS. BASELINE
-                                                       
-            OVERALL     01     02     03     04     05     06     07     08
- jime-sfe_|  0.017    ...    ...  0.014  0.022  0.013  0.022    ...  0.022
-                09     10     11     12     13     15     16     17     18
- jime-sfe_|  0.018  0.025  0.026  0.021    ...  0.018    ...    ...  0.016
-                20     21     23     24     25     26     27     28     29
- jime-sfe_|    ...    ...  0.016    ...  0.016  0.023  0.017    ...    ...
-                31     32
- jime-sfe_|  0.019  0.013                                               
-
-            OVERALL     01     02     03     04     05     06     08     09
- brew-sfe_|  0.017  0.018    ...  0.016  0.020  0.012  0.031  0.023  0.020
-                10     11     12     13     15     16     17     18     20
- brew-sfe_|  0.025  0.017  0.017    ...  0.016    ...  0.039  0.016    ...
-                21     22     23     24     25     26     27     28     29
- brew-sfe_|    ...    ...  0.016    ...  0.015  0.023  0.017  0.016    ...
-                31     32
- brew-sfe_|  0.017  0.015                                               
-
-            OVERALL     01     02     03     04     05     06     07     08
- nwbg-sfe_|  0.018    ...    ...  0.014  0.018    ...  0.019    ...  0.022
-                09     10     11     12     13     15     16     17     18
- nwbg-sfe_|  0.016  0.015  0.028  0.020    ...  0.017    ...    ...  0.016
-                20     21     23     24     25     26     27     28     29
- nwbg-sfe_|    ...    ...  0.020    ...  0.017  0.025  0.018    ...  0.019
-                31     32
- nwbg-sfe_|    ...  0.014                                               
-
-                        OBS BY SATELLITE VS. BASELINE
-                                                   
-            OVERALL     01     02     03     04     05     06     07     08
- jime-sfe_|   4800    ...    ...    383    280    244     30    ...    340
-                09     10     11     12     13     15     16     17     18
- jime-sfe_|     78     62     32     60    ...    320    ...    ...    635
-                20     21     23     24     25     26     27     28     29
- jime-sfe_|    ...    ...    634    ...    184    456    410    ...    ...
-                31     32
- jime-sfe_|     67    585                                               
-            OVERALL     01     02     03     04     05     06     08     09
- brew-sfe_|   5717    467    ...    382    274    254     40    336     78
-                10     11     12     13     15     16     17     18     20
- brew-sfe_|     41     34     62    ...    327    ...     26    625    ...
-                21     22     23     24     25     26     27     28     29
- brew-sfe_|    ...    ...    627    ...    166    453    418    441    ...
-                31     32
- brew-sfe_|     68    598                                               
-            OVERALL     01     02     03     04     05     06     07     08
- nwbg-sfe_|   3838    ...    ...    175    174    ...     44    ...    258
-                09     10     11     12     13     15     16     17     18
- nwbg-sfe_|     48    461     31     26    ...    294    ...    ...    610
-                20     21     23     24     25     26     27     28     29
- nwbg-sfe_|    ...    ...    120    ...    175    439    409    ...    321
-                31     32
- nwbg-sfe_|    ...    253                                               
-                                         
-
-   ITRF position of sfe_ as determined by individual baselines
-               X              Y              Z
-jime    -2303720.010   -3642430.880    4686037.805
-brew    -2303720.011   -3642430.869    4686037.804
-nwbg    -2303720.017   -3642430.883    4686037.818
-
-   Residuals of position determined by individual baselines from the final position
-               X              Y              Z           East          North             Up
-jime           0.003         -0.002         -0.004          0.003         -0.003         -0.003
-brew           0.002          0.008         -0.005         -0.003          0.003         -0.009
-nwbg          -0.004         -0.006          0.009         -0.001          0.001          0.011
-
- Covariance Matrix for the xyz OPUS Position (meters^2).
-    0.0000037356     0.0000005281    -0.0000004445
-    0.0000005281     0.0000078600    -0.0000006647
-   -0.0000004445    -0.0000006647     0.0000068267
-
- Covariance Matrix for the enu OPUS Position (meters^2).
-    0.0000044369    -0.0000012186     0.0000010931
-   -0.0000012186     0.0000062099    -0.0000002322
-    0.0000010931    -0.0000002322     0.0000077754
-
- Horizontal network accuracy =    0.00570 meters.
- Vertical network accuracy   =    0.00547 meters.
+      USER: XXXXXXXXXXXXX                            DATE: July 14, 2023
+RINEX FILE: sfe_193r.23o                             TIME: 05:45:26 UTC
 
 
-                       Derivation of NAD 83 vector components
+  SOFTWARE: page5  2008.25 master254.pl 160321      START: 2023/07/12  17:14:00
+ EPHEMERIS: igu22703.eph [ultra-rapid]               STOP: 2023/07/13  04:16:00
+  NAV FILE: brdc1930.23n                         OBS USED: 14416 / 17081   :  84%
+  ANT NAME: SFEFACET        NONE              # FIXED AMB:   112 /   127   :  88%
+ARP HEIGHT: 1.5972                            OVERALL RMS: 0.017(m)
 
 
-  Position of reference station ARP in NAD_83(2011)(EPOCH:2010.0000).
-                  Xa(m)           Ya(m)           Za(m)
-       JIME  -2437363.31915  -3754571.48262   4528307.61210    2010.00
-       BREW  -2112006.40341  -3705353.01174   4726827.05318    2010.00
-       NWBG  -2445986.24941  -3770014.79849   4510896.06326    2010.00
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2023.5286)
+      
+         X:     -2303718.479(m)   0.002(m)          -2303719.450(m)   0.002(m)
+         Y:     -3642431.152(m)   0.018(m)          -3642429.969(m)   0.018(m)
+         Z:      4686036.648(m)   0.005(m)           4686036.638(m)   0.005(m)
 
-  Position of reference station monument in NAD_83(2011)(EPOCH:2010.0000).
-                  Xr(m)           Yr(m)           Zr(m)
-       JIME  -2437363.31915  -3754571.48262   4528307.61210    2010.00
-       BREW  -2112006.40071  -3705353.00694   4726827.04698    2010.00
-       NWBG  -2445986.24941  -3770014.79849   4510896.06326    2010.00
+       LAT:   47 35 11.64826      0.007(m)        47 35 11.65952      0.007(m)
+     E LON:  237 41 16.75129      0.011(m)       237 41 16.68174      0.011(m)
+     W LON:  122 18 43.24871      0.011(m)       122 18 43.31826      0.011(m)
+    EL HGT:           56.622(m)   0.014(m)                56.290(m)   0.014(m)
+ ORTHO HGT:           80.256(m)   0.047(m) [NAVD88 (Computed using GEOID18)]
 
-  Velocity of reference station monument in NAD_83(2011)(EPOCH:2010.0000).
-                  Vx (m/yr)       Vy (m/yr)       Vz (m/yr)
-       JIME         0.00963         0.00243         0.00350
-       BREW         0.00472         0.00087        -0.00023
-       NWBG         0.00907         0.00242         0.00354
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 10)         SPC (4601 WA N)
+Northing (Y) [meters]     5270580.044            66284.454
+Easting (X)  [meters]      551729.277           388782.738
+Convergence  [degrees]     0.50795000          -1.10090833
+Point Scale                0.99963288           0.99998498
+Combined Factor            0.99962401           0.99997611
 
-  Vectors from unknown station monument to reference station monument
-  in NAD_83(2011)(EPOCH:2010.0000).
-                Xr-X= DX(m)     Yr-Y= DY(m)     Zr-Z= DZ(m)
-       JIME   -133644.27715   -112139.42262   -157730.20690    2010.00
-       BREW    191712.64129    -62920.94694     40789.22798    2010.00
-       NWBG   -142267.20741   -127582.73849   -175141.75574    2010.00
-
-       STATE PLANE COORDINATES - U.S. Survey Foot
-         SPC (4601    WA N)
-Northing (Y) [feet]         217468.246
-Easting  (X) [feet]        1275531.399
-Convergence  [degrees]     -1.10090833
-Point Scale                 0.99998498
-Combined Factor             0.99997586
+US NATIONAL GRID DESIGNATOR: 10TET5172970580(NAD 83)
 
 
-              ********** New Reference Frame Preview **********
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DG8346 P420 FANTASYFD_WA2004 CORS GRP      N463518.952 W1225158.733  118660.8
+DH7999 SEDR SEDR_PNGA_WA1997 CORS MON      N483117.592 W1221325.789  104169.3
+AJ7207 SC00 SC00_PNGA_WA2001 CORS MONUMENT N465703.312 W1204328.534  139382.4
 
-We are replacing the nation’s NAD 83 and NAVD 88 datums, to improve access and accuracy of
-the National Spatial Reference System. More at https://geodesy.noaa.gov/datums/newdatums/
+                 NEAREST NGS PUBLISHED CONTROL POINT
+SY4515      T24N R4E SEC 8 NE COR          N473523.960 W1221849.776     404.0
 
-Below are approximate coordinates for this solution in the new frames:
-
-APPROX ORTHO HGT:     80.637 (m) [PROTOTYPE (Computed using xGeoid19B,GRS80,ITRF2014)]
-
-
-This position and the above vector components were computed without any
-knowledge by the National Geodetic Survey regarding the equipment or
+This position and the above vector components were computed without any 
+knowledge by the National Geodetic Survey regarding the equipment or 
 field operating procedures used.
