@@ -1,3 +1,60 @@
+FILE: SFE_Facet_LBand_230714_162930.23O OP1689454102822
+
+                              NGS OPUS SOLUTION REPORT
+                              ========================
+
+All computed coordinate accuracies are listed as peak-to-peak values.
+For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
+
+      USER: jake@woofy.io                            DATE: July 15, 2023
+RINEX FILE: sfe_195q.23o                             TIME: 20:52:33 UTC
+
+
+  SOFTWARE: page5  2008.25 master271.pl 160321      START: 2023/07/14  16:30:00
+ EPHEMERIS: igu22705.eph [ultra-rapid]               STOP: 2023/07/15  02:52:00
+  NAV FILE: brdc1950.23n                         OBS USED: 15569 / 18194   :  86%
+  ANT NAME: SFEFACET        NONE              # FIXED AMB:   114 /   136   :  84%
+ARP HEIGHT: 2.1972                            OVERALL RMS: 0.018(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2023.5339)
+     
+         X:     -2303718.467(m)   0.007(m)          -2303719.438(m)   0.007(m)
+         Y:     -3642431.157(m)   0.005(m)          -3642429.974(m)   0.005(m)
+         Z:      4686036.641(m)   0.008(m)           4686036.631(m)   0.008(m)
+
+       LAT:   47 35 11.64815      0.008(m)        47 35 11.65945      0.008(m)
+     E LON:  237 41 16.75190      0.004(m)       237 41 16.68235      0.004(m)
+     W LON:  122 18 43.24810      0.004(m)       122 18 43.31765      0.004(m)
+    EL HGT:           56.615(m)   0.008(m)                56.283(m)   0.008(m)
+ ORTHO HGT:           80.249(m)   0.046(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 10)         SPC (4601 WA N)
+Northing (Y) [meters]     5270580.041            66284.450
+Easting (X)  [meters]      551729.290           388782.751
+Convergence  [degrees]     0.50795000          -1.10090833
+Point Scale                0.99963288           0.99998498
+Combined Factor            0.99962401           0.99997611
+
+US NATIONAL GRID DESIGNATOR: 10TET5172970580(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DG9893 NWBG ADEPAZ COOP CORS ARP           N451800.172 W1225831.850  259214.0
+DG7410 P020 DRYLNDRSH_WA2004 CORS GRP      N470007.933 W1183356.712  290664.7
+DK4090 BREW BREWSTER VLBA 40473M001        N480753.468 W1194057.421  205855.6
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+SY4515      T24N R4E SEC 8 NE COR          N473523.960 W1221849.776     404.0
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.
+
+-----------------------------------------------------------------------------
+
 FILE: SFE_Facet_LBand_230712_171333.23O OP1689354014225
 
                               NGS OPUS SOLUTION REPORT
