@@ -6,7 +6,7 @@ FILE: SFE_Facet_230721_173306.23O OP1690306465805
 All computed coordinate accuracies are listed as peak-to-peak values.
 For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
 
-      USER: jake@woofy.io                            DATE: July 25, 2023
+      USER: XXXXXXXXXXXXX                            DATE: July 25, 2023
 RINEX FILE: sfe_202r.23o                             TIME: 17:35:13 UTC
 
 
