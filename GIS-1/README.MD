@@ -1,6 +1,6 @@
 # GIS-1
-## Location
-Right of Way, near 1814 16th Ave S, Seattle, WA, 98144
+## Description
+2" disk with 12" stake in Right of Way, near 1814 16th Ave S, Seattle, WA, 98144
 ## Photos
 ![Close Up](20230712_212502.jpg)
 ![Distance](20230712_212536.jpg)
