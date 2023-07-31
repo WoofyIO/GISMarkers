@@ -1,4 +1,4 @@
-# GIS-NELSON-CLAIM
+# GIS-CLAIM
 ## Description
 2" disk with 12" stake at 
 ## Photos
