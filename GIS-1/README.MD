@@ -9,7 +9,7 @@
 ## Location
 [OPUS Details](OPUS.txt)
 ```
-REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2023.5340)
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2023.5340)
       
          X:     -2303718.465(m)   0.008(m)          -2303719.436(m)   0.008(m)
          Y:     -3642431.140(m)   0.018(m)          -3642429.957(m)   0.018(m)
@@ -28,4 +28,6 @@ Easting (X)  [meters]      551729.282           388782.743
 Convergence  [degrees]     0.50795000          -1.10090833
 Point Scale                0.99963288           0.99998498
 Combined Factor            0.99962401           0.99997611
+
+US NATIONAL GRID DESIGNATOR: 10TET5172970580(NAD 83)
 ```
