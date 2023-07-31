@@ -1,4 +1,4 @@
-# GIS-1
+# GIS-2
 ## Description
 2" disk with 12" stake at end of driveway near house of 4301 Martin Rd, Ephrata, WA, 98823
 ## Photos
