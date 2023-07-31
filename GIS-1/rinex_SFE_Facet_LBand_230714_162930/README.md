@@ -6,4 +6,5 @@
 - Pole: 2.2m
 - L1 Offset: +0.069m
 - L1 Offset from SFEFACET Antenna Profile: -0.0028m
-- ARP Hight: 2.1972m
+- ARP Height: 2.269m
+- OPUS Height: 2.1972m
