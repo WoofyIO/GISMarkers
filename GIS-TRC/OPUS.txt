@@ -1,0 +1,54 @@
+FILE: SFE_Facet_LBand_230804_044341.23O OP1691509334799
+
+                              NGS OPUS SOLUTION REPORT
+                              ========================
+
+All computed coordinate accuracies are listed as peak-to-peak values.
+For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
+
+      USER: XXXXXXXXXXXXXX                           DATE: August 08, 2023
+RINEX FILE: sfe_216e.23o                             TIME: 15:43:17 UTC
+
+
+  SOFTWARE: page5  2008.25 master254.pl 160321      START: 2023/08/04  04:44:00
+ EPHEMERIS: igr22735.eph [rapid]                     STOP: 2023/08/04  12:20:30
+  NAV FILE: brdc2160.23n                         OBS USED:  6002 /  9191   :  65%
+  ANT NAME: SFEFACET        NONE              # FIXED AMB:    89 /   102   :  87%
+ARP HEIGHT: 1.7972                            OVERALL RMS: 0.018(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2023.5900)
+      
+         X:     -2236644.879(m)   0.023(m)          -2236645.872(m)   0.023(m)
+         Y:     -3637158.481(m)   0.058(m)          -3637157.296(m)   0.058(m)
+         Z:      4722747.773(m)   0.045(m)           4722747.758(m)   0.045(m)
+
+       LAT:   48  4 28.69432      0.014(m)        48  4 28.70576      0.014(m)
+     E LON:  238 24 39.08534      0.014(m)       238 24 39.01450      0.014(m)
+     W LON:  121 35 20.91466      0.014(m)       121 35 20.98550      0.014(m)
+    EL HGT:          433.252(m)   0.073(m)               432.914(m)   0.073(m)
+ ORTHO HGT:          453.224(m)   0.102(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 10)         SPC (4601 WA N)
+Northing (Y) [meters]     5325558.666           119757.061
+Easting (X)  [meters]      605090.573           443682.985
+Convergence  [degrees]     1.04979444          -0.56271667
+Point Scale                0.99973570           0.99994254
+Combined Factor            0.99966782           0.99987464
+
+US NATIONAL GRID DESIGNATOR: 10UFU0509125559(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DH7999 SEDR SEDR_PNGA_WA1997 CORS MON      N483117.592 W1221325.789   68465.4
+DL2071 SMAI WEST SEATTLE CORS ARP          N473124.843 W1222042.147   83434.8
+DN5819 CHCM CHIMACUM SCHOOLS CORS GRP      N480038.208 W1224633.058   88773.8
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+TQ0699      SILVERTON                      N480443.648 W1213417.768    1386.2
+
+This position and the above vector components were computed without any 
+knowledge by the National Geodetic Survey regarding the equipment or 
+field operating procedures used.
