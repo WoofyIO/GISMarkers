@@ -1,0 +1,54 @@
+FILE: SFE_Facet_LBand_230813_182229.23O OP1692150207078
+
+                              NGS OPUS SOLUTION REPORT
+                              ========================
+
+All computed coordinate accuracies are listed as peak-to-peak values.
+For additional information: https://www.ngs.noaa.gov/OPUS/about.jsp#accuracy
+
+      USER: XXXXXXXXXXXXXXX                          DATE: August 16, 2023
+RINEX FILE: sfe_225s.23o                             TIME: 01:46:47 UTC
+
+
+  SOFTWARE: page5  2008.25 master251.pl 160321      START: 2023/08/13  18:23:00
+ EPHEMERIS: igr22750.eph [rapid]                     STOP: 2023/08/13  20:44:00
+  NAV FILE: brdc2250.23n                         OBS USED:  2590 /  3781   :  69%
+  ANT NAME: SFEFACET        NONE              # FIXED AMB:    22 /    31   :  71%
+ARP HEIGHT: 1.7972                            OVERALL RMS: 0.018(m)
+
+
+ REF FRAME: NAD_83(2011)(EPOCH:2010.0000)              ITRF2014 (EPOCH:2023.6159)
+     
+         X:     -1767551.487(m)   0.137(m)          -1767552.495(m)   0.137(m)
+         Y:     -4046702.259(m)   0.112(m)          -4046701.038(m)   0.112(m)
+         Z:      4589285.900(m)   0.185(m)           4589285.829(m)   0.185(m)
+
+       LAT:   46 17 43.21680      0.092(m)        46 17 43.23196      0.092(m)
+     E LON:  246 24 17.51753      0.129(m)       246 24 17.45154      0.129(m)
+     W LON:  113 35 42.48247      0.129(m)       113 35 42.54846      0.129(m)
+    EL HGT:         1791.419(m)   0.181(m)              1790.873(m)   0.181(m)
+ ORTHO HGT:         1804.866(m)   0.220(m) [NAVD88 (Computed using GEOID18)]
+
+                        UTM COORDINATES    STATE PLANE COORDINATES
+                         UTM (Zone 12)         SPC (2500   MT)
+Northing (Y) [meters]     5130135.758           235532.127
+Easting (X)  [meters]      300127.590           284780.189
+Convergence  [degrees]    -1.87666944          -2.99560833
+Point Scale                1.00009110           0.99947037
+Combined Factor            0.99981033           0.99918977
+
+US NATIONAL GRID DESIGNATOR: 12TUS0012830136(NAD 83)
+
+
+                              BASE STATIONS USED
+PID       DESIGNATION                        LATITUDE    LONGITUDE DISTANCE(m)
+DE8232 MSOL MISSOULA CORS ARP              N465545.837 W1140631.844   80746.6
+DI2256 P046 CLEARWATERMT2006 CORS GRP      N470146.523 W1131954.185   84096.5
+DN6069 LOLO LOLO CORS ARP                  N464546.247 W1140548.672   64689.6
+
+                 NEAREST NGS PUBLISHED CONTROL POINT
+RX0622      U 74                           N461440.000 W1133814.000    6521.5
+
+This position and the above vector components were computed without any
+knowledge by the National Geodetic Survey regarding the equipment or
+field operating procedures used.
