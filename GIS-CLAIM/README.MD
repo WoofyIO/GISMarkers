@@ -2,8 +2,8 @@
 ## Description
 2" disk with 12" stake at the corner of the road and claim working site.
 ## Photos
-![Close Up]()
-![Distance]()
+![Close Up](photo_2023-08-18_09-21-51.jpg)
+![Distance](photo_2023-08-18_09-21-36.jpg)
 ## Most Current Obs
 [OBS]()
 ## Location
